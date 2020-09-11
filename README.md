@@ -2,6 +2,8 @@
 
 YouTube proxy API that search and stream videos/audios
 
+[![Run on Repl.it](https://repl.it/badge/github/suru007/youtube-proxy)](https://repl.it/github/suru007/youtube-proxy)
+
 ## Usage
 
 Search:
